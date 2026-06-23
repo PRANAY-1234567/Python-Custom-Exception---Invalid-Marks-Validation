@@ -118,3 +118,6 @@ Aspiring Software Engineer | Python | SQL | Data Analytics
 ## 📄 License
 
 This project is open-source and available for educational and learning purposes.
+
+
+<img width="621" height="764" alt="image" src="https://github.com/user-attachments/assets/7a928f35-d0b5-4c21-9b26-b5fda5b06ab6" />
